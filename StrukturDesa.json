@@ -1,0 +1,15 @@
+{
+  "judul": "Struktur Organisasi Desa",
+  "struktur": [
+    {
+      "nama": "Pak Ahmad",
+      "jabatan": "Kepala Desa",
+      "gambar": "https://example.com/gambar1.jpg"
+    },
+    {
+      "nama": "Bu Siti",
+      "jabatan": "Sekretaris Desa",
+      "gambar": "https://example.com/gambar2.jpg"
+    }
+  ]
+}
